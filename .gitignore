@@ -11,6 +11,9 @@
 # Icon must end with two \r
 Icon
 
+#Logs
+*.log
+
 # Key Files
 *.key
 *.pub
